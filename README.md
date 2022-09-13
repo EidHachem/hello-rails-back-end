@@ -1,6 +1,8 @@
 # Hello Rails API
 
 This app was built with rails 7 , it provids an api endpoint that generates random messages everytime the user refresh the page, you can use it to build front-end projects.
+I have use it withe following app:
+[hello-react-front-end](https://github.com/EidHachem/hello-react-front-end/)
 
 ## Built With
 
