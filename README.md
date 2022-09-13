@@ -1,24 +1,50 @@
-# README
+# Hello Rails API
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This app was built with rails 7 , it provids an api endpoint that generates random messages everytime the user refresh the page, you can use it to build front-end projects.
 
-Things you may want to cover:
+## Built With
 
-* Ruby version
+- Rails 7
+- Ruby 3
 
-* System dependencies
+### Prerequisites
 
-* Configuration
+- Make sure you already installed Ruby version 3 or higher, Rails 7, and Git.
 
-* Database creation
+## Getting Started
 
-* Database initialization
+To get a local copy up and running follow these simple steps:
+- visit `https://github.com/EidHachem/hello-rails-back-end/tree/dev`
+- Clone the repo or download it as zip file
 
-* How to run the test suite
+### Setup
 
-* Services (job queues, cache servers, search engines, etc.)
+Clone the repository using the below commands.
 
-* Deployment instructions
+- `git clone git@github.com:EidHachem/hello-rails-back-end.git`
+- `cd hello-rails-back-end`
+- `bundle install`
+- `rails db:create db:migrate db:seed`
+- `rails s`
 
-* ...
+## Author
+
+👤 **Eid Hachem**
+
+- GitHub: [@EidHachem](https://github.com/EidHachem)
+- Twitter: [@eidHachem1](https://twitter.com/@eidHachem1)
+- LinkedIn: [Eid Hachem](https://www.linkedin.com/in/eid-hachem/)
+
+## 🤝 Contributing
+
+Contributions, issues, and feature requests are welcome!
+
+Feel free to check the [issues page](https://github.com/EidHachem/rails-react/issues).
+
+## Show your support
+
+Give a ⭐️ if you like this project!
+
+## 📝 License
+
+This project is [MIT](./MIT.md) licensed.
